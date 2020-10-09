@@ -9,5 +9,5 @@ def insertion_sort(x):
         x[j+1] = key_item
     return x
 
-xlist=[1,5,9,3,7,8,6,2,4,0]
+xlist=[13,11,12,10,1,5,9,3,7,8,6,2,4,0]
 print(insertion_sort(xlist))
